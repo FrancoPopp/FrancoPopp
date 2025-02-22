@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Franco Popp 👋
 
-<!--
-**FrancoPopp/FrancoPopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated full stack developer with hands-on experience in building robust APIs using Spring Boot. I enjoy tackling complex problems and crafting efficient solutions.
 
-Here are some ideas to get you started:
+🌐 **[Visit my portfolio](https://www.francopopp.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a bit more about me:
+
+- 🔭 Currently working on an inventory management system using ReactJS, Spring Boot, and PostgreSQL.
+- 🌱 Always exploring new technologies and improving my skills.
+- 💬 Ask me about JavaScript, HTML, CSS, ReactJS, Java, Spring Boot, MySQL, PostgreSQL, and C.
+- 📫 How to reach me: [franco.popp@hotmail.com](mailto:franco.popp@hotmail.com)
+
+## Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/francopopp)
+
+Thanks for visiting my profile! Have a great day! 😄
