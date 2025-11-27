@@ -6,10 +6,10 @@ I'm a dedicated full stack developer with hands-on experience in building robust
 
 Here's a bit more about me:
 
-- 🔭 Currently working on an inventory management system using ReactJS, Spring Boot, and PostgreSQL.
+- 🔭 Currently working on Semantica, a language learning app wih AI integrations using React Native and Express.js.
 - 🌱 Always exploring new technologies and improving my skills.
-- 💬 Ask me about JavaScript, HTML, CSS, ReactJS, Java, Spring Boot, MySQL, PostgreSQL, and C.
-- 📫 How to reach me: [franco.popp@hotmail.com](mailto:franco.popp@hotmail.com)
+- 💬 Ask me about JavaScript, HTML, CSS, ReactJS, Express.js, Next.js, Java, Spring Boot, MySQL, PostgreSQL, Prisma, and C.
+- 📫 How to reach me: [franco.popp@hotmail.com](mailto:franco.a.popp9@gmail.com)
 
 ## Languages and Tools
 
